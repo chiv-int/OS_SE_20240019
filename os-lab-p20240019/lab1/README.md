@@ -61,6 +61,7 @@ State whether your system is running on a virtual machine or physical hardware b
 
 ![alt text](image/task6.png)
 
+```
 C:.
 └───os-lab-p20240019
     └───lab1
@@ -90,3 +91,4 @@ C:.
         └───task2_files
                 a.txt
                 b_renamed.txt
+```
